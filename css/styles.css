@@ -177,14 +177,14 @@ html,body {
 }
 
 .Rectangle_ {
-  background-image: -ms-linear-gradient( 90deg, rgb(12, 143, 196) 0%, rgb(12, 143, 196) 100%);
-  opacity: 0.929;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1600px;
-  height: 800px;
-  z-index: 447;
+	background-image: -ms-linear-gradient( 90deg, rgb(0,0,128) 0%, rgb(0, 0, 128) 100%);
+	opacity: 0.929;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1600px;
+	height: 800px;
+	z-index: 447;
 }
 
 .social-icon{
