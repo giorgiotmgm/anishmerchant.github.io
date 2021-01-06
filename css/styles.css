@@ -91,7 +91,7 @@ html,body {
   right: 0;
   top: 0;
   bottom: 0;
-  background: -webkit-linear-gradient( 90deg, rgba(108,76,206, .9) 0%, rgba(127,86,253, .9) 100%);
+  background: -webkit-linear-gradient( 90deg, rgba(12, 143, 196) 0%, rgba(12, 143, 196) 100%);
   z-index: -1;
 }
 
@@ -177,7 +177,7 @@ html,body {
 }
 
 .Rectangle_ {
-  background-image: -ms-linear-gradient( 90deg, rgb(108,76,206) 0%, rgb(127,86,253) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(12, 143, 196) 0%, rgb(12, 143, 196) 100%);
   opacity: 0.929;
   position: absolute;
   left: 0px;
